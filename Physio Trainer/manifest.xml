@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="physiotrainer-19eeaa">
+<package version="0.0.1" uuid="physiotrainer-19eeaa">
  <names>
+  <name lang="de_DE">Physio Trainer</name>
   <name lang="en_US">Physio Trainer</name>
  </names>
  <supportedLanguages>
-  <language>en_US</language>
+  <language>de_DE</language>
  </supportedLanguages>
  <descriptionLanguages>
+  <language>de_DE</language>
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
